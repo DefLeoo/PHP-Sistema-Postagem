@@ -1,0 +1,14 @@
+CREATE DATABASE Postagem;
+USE Postagem;
+
+CREATE TABLE login(
+
+    id INT NOT NULL AUTO_INCREMENT,
+    nome VARCHAR(25)NOT NULL,
+    usuario VARCHAR(255)NOT NULL,
+    email VARCHAR(255)NOT NULL,
+    password VARCHAR(255)NOT NULL,
+    thumb VARCHAR(255)NOT NULL,
+    nivel VARCHAR(255)NOT NULL,
+    PRIMARY KEY(id)
+);

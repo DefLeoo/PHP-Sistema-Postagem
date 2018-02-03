@@ -1,0 +1,16 @@
+Projeto...
+
+1 - Painel ADMIN
+2 - Tela de login
+3 - Create BD,
+4 - Conectar com a nossa base...
+5 - Iniciar session
+6 - Finalizar session
+7 - Trabalhar o nosso menu..
+8 - criamos tela de postagem
+9 - Cadastramos postagem via formulário
+10 -Upload de imagem
+
+
+
+
